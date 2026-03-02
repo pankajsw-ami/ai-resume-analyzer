@@ -1,4 +1,6 @@
 # 🎯 AI Resume Analyzer + Job Match Scorer
+🚀 **Live Demo:**  
+[Click Here to Try the App](https://ai-resume-analyzer-m2bpqtxwwd4aooywxragxu.streamlit.app/)
 
 A 100% free, local AI-powered tool that analyzes your resume against any job description and gives you a detailed score, skill gap report, and ATS optimization tips — no API key required.
 
