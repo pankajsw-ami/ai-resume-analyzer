@@ -1,0 +1,37 @@
+SOFTWARE ENGINEER – DATA & ML (FRESHER / ENTRY LEVEL)
+
+About the Role:
+We are looking for a passionate and driven Software Engineer to join our Data & Machine Learning team. This is a great opportunity for freshers who are excited about building real-world AI products.
+
+Responsibilities:
+- Design, build, and maintain data pipelines and ML models
+- Collaborate with senior engineers on NLP and computer vision projects
+- Write clean, testable Python code following best practices
+- Analyze large datasets using pandas and SQL
+- Deploy models using Docker and REST APIs (Flask / FastAPI)
+- Participate in Agile sprint planning and code reviews via GitHub
+
+Required Skills:
+- Proficiency in Python (mandatory)
+- Knowledge of machine learning and deep learning concepts
+- Hands-on experience with scikit-learn, pandas, numpy
+- Understanding of SQL and database concepts
+- Familiarity with Git and version control workflows
+- Basic understanding of Docker and Linux
+
+Nice to Have:
+- Experience with NLP (spaCy, NLTK, HuggingFace Transformers)
+- Knowledge of TensorFlow or PyTorch
+- Exposure to cloud platforms (AWS, GCP, or Azure)
+- Data visualization using Matplotlib, Seaborn, or Tableau
+
+Qualifications:
+- B.Tech / B.E. / B.Sc in Computer Science, IT, or related field
+- CGPA 7.0 or above preferred
+- Final year students / 2024-25 graduates welcome
+
+What We Offer:
+- Competitive stipend/salary
+- Mentorship from senior ML engineers
+- Work on cutting-edge NLP and vision projects
+- Flexible remote work options
